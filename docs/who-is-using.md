@@ -20,3 +20,4 @@
 | Cyren | @avnerl | Evaluation | Data pipelines
 | Shell (Agile Hub) | @TomLous | Production | Data pipelines
 | Nielsen Identity Engine | @roitvt | Evaluation | Data pipelines
+| Mxnavi | @wuminsure | Evaluation | Data pipelines
